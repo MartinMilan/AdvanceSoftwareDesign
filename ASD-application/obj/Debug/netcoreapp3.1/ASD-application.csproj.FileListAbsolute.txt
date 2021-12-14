@@ -1,0 +1,13 @@
+C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.exe
+C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.deps.json
+C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.runtimeconfig.json
+C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.runtimeconfig.dev.json
+C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.dll
+C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.pdb
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.csproj.AssemblyReference.cache
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.AssemblyInfoInputs.cache
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.AssemblyInfo.cs
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.csproj.CoreCompileInputs.cache
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.dll
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.pdb
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.genruntimeconfig.cache

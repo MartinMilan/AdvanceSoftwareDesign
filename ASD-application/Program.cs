@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ASD
+namespace ASD_application
 {
     class Program
     {
