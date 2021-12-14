@@ -1,6 +1,10 @@
+using ASD_application;
 using System;
 
 public class UserController{
+
+    private static UserController instance = null;
+    private static readonly object padlock = new object();
     public static UserController Instance
     {
         get
@@ -20,7 +24,7 @@ public class UserController{
         
         return true;
     }
-    public void editAccountInfo(User user){
+    public void editAccountInfo(Account user){
 
     }
     public void editPassword(string[] user_id, string[] password){

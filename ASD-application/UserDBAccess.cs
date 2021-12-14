@@ -1,11 +1,12 @@
+using ASD_application;
 using System;
 
 public class UserDBAccess{
 
-    public void storeUserAccount(User user){
+    public void storeUserAccount(Account user){
 
     }
-    public void updateUserAccount(User user){
+    public void updateUserAccount(Account user){
 
     }
     public void deleteUserAccount(string[] user_id){

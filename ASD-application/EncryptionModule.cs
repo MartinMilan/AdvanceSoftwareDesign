@@ -1,17 +1,24 @@
 using System;
-public class EncryptionModule
-{
-    String key;
-    String decryptmessage;
 
-    public EncryptionModule(string key){
-        this.key = key;
-        this.decryptmessage = decryptmessage;
-    }
-    public String generateKeypair(){
-        return key;
-    }
-    public String encryptMessage(string[] message,string[] public_key){
-        return decryptmessage; 
+namespace ASD_application
+{
+    public class EncryptionModule
+    {
+        string key;
+        string decryptmessage;
+
+        public EncryptionModule(string key)
+        {
+            this.key = key;
+            decryptmessage = decryptmessage;
+        }
+        public string generateKeypair()
+        {
+            return key;
+        }
+        public string encryptMessage(string[] message, string[] public_key)
+        {
+            return decryptmessage;
+        }
     }
 }

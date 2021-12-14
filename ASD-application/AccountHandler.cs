@@ -1,7 +1,8 @@
+using ASD_application;
 using System;
 public class AccountHandler{
 
-    public void editAccountInfo(User user){
+    public void editAccountInfo(Account user){
 
     }
     public void editPassword(string[] user_id, string[] password){
