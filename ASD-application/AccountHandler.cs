@@ -2,6 +2,7 @@ using ASD_application;
 using System;
 public class AccountHandler{
 
+    private UserDBAccess userDBAccess = new UserDBAccess();
     public void editAccountInfo(Account user){
 
     }
@@ -9,6 +10,6 @@ public class AccountHandler{
 
     }
     public void createAccount(string[] user_id, string[] address, string[] phone_number){
-
+        userDBAccess.storeUserAccount(new Account());
     }
 }
