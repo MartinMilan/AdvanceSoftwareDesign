@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8ABA9EFF-EC51-4E62-82DD-8E2538DEA688}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASD-application PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MessageDBAcess.cs">
+    <Files>
+      <File FileName="EmptyClass.cs" Line="7" Column="10" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="PaymentHandler.cs" Line="26" Column="13" />
+      <File FileName="PaymentMethod.cs" Line="7" Column="6" />
+      <File FileName="Swish.cs" Line="14" Column="2" />
+      <File FileName="Account.cs" Line="12" Column="33" />
+      <File FileName="Indbox.cs" Line="15" Column="10" />
+      <File FileName="Message.cs" Line="12" Column="1" />
+      <File FileName="TextMessage.cs" Line="10" Column="29" />
+      <File FileName="LocationMessage.cs" Line="6" Column="1" />
+      <File FileName="ImageMessage.cs" Line="10" Column="30" />
+      <File FileName="MessageDBAcess.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASD-application" expanded="True">
+            <Node name="ASD-application" expanded="True">
+              <Node name="MessageDBAcess.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

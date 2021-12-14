@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "X1R4OybS1C9R/5YvUkEHSWndXp5qXuSDVWzGv7yQRxj+GHcG3Kxnr6QJ4dJmk0ix0rCCk/+x7+aiev0gX0lPPg==",
+  "dgSpecHash": "zcVAjqMehVsS/Rd+d1yCK6JcIqxM9S6OS+6nlMadSo4XiBq1nZVp9BWgQ/610M7fbtsB22W4nUO5GpYu8MWPsg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AdvanceSoftwareDesign\\ASD-application\\ASD-application.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/ASD-application.csproj",
+  "expectedPackageFiles": [
+    "/Users/martinkjaer/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/martinkjaer/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
