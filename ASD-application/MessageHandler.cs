@@ -1,6 +1,6 @@
 using ASD_application;
 using System;
-public class EncryptionModule{
+public class MessageHandler{
     private Message message;
     
     public bool SendMessage(string[] reciever_id, string[] sender_id){
