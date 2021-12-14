@@ -11,7 +11,7 @@ namespace ASD_application
         }
 
         private int GetPrice(Job job) {
-            return job.wage;
+            return 1;
 
         }
 
