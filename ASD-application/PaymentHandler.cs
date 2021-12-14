@@ -11,7 +11,11 @@ namespace ASD_application
         }
 
         private int GetPrice(Job job) {
+<<<<<<< HEAD
+            return 1;
+=======
             return job.GetWage();
+>>>>>>> dad400290983e145cb70e36370e207759b051f11
 
         }
 
