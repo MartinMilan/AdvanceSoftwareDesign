@@ -23,6 +23,11 @@ public class Job
         this.jobConstraints = jobConstraints;
     }
 
+    public int GetWage()
+    {
+        return wage;
+    }
+
     public void UpdateStatus(Status status) { }
     public void PostJob() { }
 }
