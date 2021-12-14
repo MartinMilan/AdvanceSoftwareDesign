@@ -16,3 +16,4 @@ C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-ap
 C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.dll
 C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-application.pdb
 C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.genruntimeconfig.cache
+C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.csproj.AssemblyReference.cache

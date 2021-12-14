@@ -28,6 +28,11 @@ public class Job
         return wage;
     }
 
+    public Status GetStatus()
+    {
+        return jobCurrentStatus;
+    }
+
     public void UpdateStatus(Status status) { }
     public void PostJob() { }
 }
