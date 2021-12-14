@@ -25,6 +25,29 @@ C:/Projects/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-ap
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.csproj.CoreCompileInputs.cache
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.dll
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.pdb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+C:/Projects/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.AssemblyInfoInputs.cache
+C:/Projects/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.AssemblyInfo.cs
+C:/Projects/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.csproj.CoreCompileInputs.cache
+C:/Projects/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.dll
+C:/Projects/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.pdb
+C:/Projects/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.exe
+C:/Projects/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.deps.json
+C:/Projects/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.runtimeconfig.json
+C:/Projects/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.runtimeconfig.dev.json
+C:/Projects/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.dll
+C:/Projects/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.pdb
+C:/Projects/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.genruntimeconfig.cache
+/Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.deps.json
+/Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.runtimeconfig.json
+/Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.runtimeconfig.dev.json
+/Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.dll
+/Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.pdb
+/Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.genruntimeconfig.cache
+=======
+>>>>>>> 2c8a739d9f1e6225ce1326a24253daf79611d8d5
 C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.AssemblyInfoInputs.cache
 C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.AssemblyInfo.cs
 C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.csproj.CoreCompileInputs.cache
@@ -39,6 +62,7 @@ C:\Projects\AdvanceSoftwareDesign\ASD-application\bin\Debug\netcoreapp3.1\ASD-ap
 C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.genruntimeconfig.cache
 C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-application.csproj.AssemblyReference.cache
 >>>>>>> main
+<<<<<<< HEAD
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.deps.json
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.runtimeconfig.json
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.runtimeconfig.dev.json
@@ -46,3 +70,6 @@ C:\Projects\AdvanceSoftwareDesign\ASD-application\obj\Debug\netcoreapp3.1\ASD-ap
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/bin/Debug/netcoreapp3.1/ASD-application.pdb
 /Users/martinkjaer/Documents/University/Uppsala/ASD/ASD/AdvanceSoftwareDesign/ASD-application/obj/Debug/netcoreapp3.1/ASD-application.genruntimeconfig.cache
 >>>>>>> help
+=======
+>>>>>>> 3c6d3ec57a60cd863d4663f3261b5a6446981f29
+>>>>>>> 2c8a739d9f1e6225ce1326a24253daf79611d8d5
