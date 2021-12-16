@@ -8,6 +8,7 @@ namespace ASD_application
 
         public PaymentHandler()
         {
+
         }
 
         private int GetPrice(Job job) {

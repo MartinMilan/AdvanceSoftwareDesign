@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AdvanceSoftwareDesign\\ASD-application\\ASD-application.csproj": {}
+    "C:\\Projects\\AdvanceSoftwareDesign\\AdvanceSoftwareDesign.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AdvanceSoftwareDesign\\ASD-application\\ASD-application.csproj": {
+    "C:\\Projects\\AdvanceSoftwareDesign\\AdvanceSoftwareDesign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AdvanceSoftwareDesign\\ASD-application\\ASD-application.csproj",
-        "projectName": "ASD-application",
-        "projectPath": "C:\\Projects\\AdvanceSoftwareDesign\\ASD-application\\ASD-application.csproj",
+        "projectUniqueName": "C:\\Projects\\AdvanceSoftwareDesign\\AdvanceSoftwareDesign.csproj",
+        "projectName": "AdvanceSoftwareDesign",
+        "projectPath": "C:\\Projects\\AdvanceSoftwareDesign\\AdvanceSoftwareDesign.csproj",
         "packagesPath": "C:\\Users\\Morten\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AdvanceSoftwareDesign\\ASD-application\\obj\\",
+        "outputPath": "C:\\Projects\\AdvanceSoftwareDesign\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,14 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "System.Collections.NonGeneric": {
-              "target": "Package",
-              "version": "[4.3.0, )"
-            }
-          },
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

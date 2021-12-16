@@ -66,6 +66,6 @@ public sealed class JobController
 
     public void Update(Job job)
     {
-
+        jobManager.update(job);
     }
 }

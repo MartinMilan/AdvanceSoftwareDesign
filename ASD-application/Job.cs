@@ -34,5 +34,8 @@ public class Job
     }
 
     public void UpdateStatus(Status status) { }
-    public void PostJob() { }
+    public void PostJob() 
+    {
+            
+    }
 }

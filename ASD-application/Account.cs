@@ -3,7 +3,7 @@ namespace ASD_application
 {
     public class Account
     {
-        private Indbox inbox;
+        private Inbox inbox;
         private String name;
         private int age;
         private String gender;

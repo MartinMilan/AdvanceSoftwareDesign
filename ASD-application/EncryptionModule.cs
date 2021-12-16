@@ -4,21 +4,18 @@ namespace ASD_application
 {
     public class EncryptionModule
     {
-        string key;
-        string decryptmessage;
 
-        public EncryptionModule(string key)
+        public EncryptionModule()
         {
-            this.key = key;
-            decryptmessage = decryptmessage;
         }
-        public string generateKeypair()
+
+        public string GenerateKeypair(string key)
         {
-            return key;
+            return "keypair";
         }
-        public string encryptMessage(string[] message, string[] public_key)
+        public string EncryptMessage(string message, string public_key)
         {
-            return decryptmessage;
+            return "ciphertext";
         }
     }
 }

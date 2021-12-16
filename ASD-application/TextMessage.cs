@@ -3,14 +3,18 @@ namespace ASD_application
 {
     public class TextMessage : Message
     {
-        private int senderID;
-        private int recieverID;
-        private int messageID;
+        private string senderID;
+        private string recieverID;
+        private string messageID;
         private DateTime sendDate;
         private String text;
 
-        public TextMessage()
+        public TextMessage(string message, string senderID, string recieverID)
         {
+            text = message;
+            this.senderID = senderID;
+            this.recieverID = recieverID;
+
         }
 
         public void MarkRead()

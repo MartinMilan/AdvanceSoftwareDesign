@@ -32,6 +32,8 @@ public class JobManager
         // Call Matcher
     }
 
-
-
+    internal void update(Job job)
+    {
+        throw new NotImplementedException();
+    }
 }

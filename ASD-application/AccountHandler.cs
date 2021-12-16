@@ -2,7 +2,15 @@ using ASD_application;
 using System;
 public class AccountHandler{
 
-    private UserDBAccess userDBAccess = new UserDBAccess();
+
+
+    private UserDBAccess userDBAccess;
+
+    public AccountHandler()
+    {
+        userDBAccess = new UserDBAccess();
+    }
+
     public void editAccountInfo(Account user){
 
     }
