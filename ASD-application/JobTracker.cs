@@ -15,6 +15,6 @@ public class JobTracker : IJobObserver
 
     public void Update(Job job, Category category)
     {
-        throw new NotImplementedException();
+        jobDBAccess.StoreJob(job);
     }
 }

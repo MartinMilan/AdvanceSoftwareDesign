@@ -39,18 +39,17 @@ public class UserController{
     public void editAccountInfo(Account user){
         
     }
-    public void editPassword(string[] user_id, string[] password){
+    public void editPassword(string user_id, string password){
 
     }
-    public void createAccount(string[] user_id, string[] address){
+    public void createAccount(string user_id, string address){
 
     }
-    public bool handlePayment(string[] responderId, string[] recieverId, double price){
-
-        return true;
+    public bool handlePayment(string responderId, string recieverId, double price){
+        return paymentHandler.HandlePayment(responderId, recieverId, price);
     }
     public void setPaymentMethod(PaymentMethod paymentMethod){
-
+        paymentHandler.SetPaymentMethod(paymentMethod);
     }
     public void markMessageReceived(){
 

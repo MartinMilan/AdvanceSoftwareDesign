@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uENzIsCDKazVjtEMot6ezXP97kmKwap78FVBCe3J/zqkLNLxCfBu9ipRfYr+OuQSlIWHReMn9xoa/xiebSjGqw==",
+  "dgSpecHash": "7SeyUhl/aVOiRZ6Lfzf5ouvIlP3/x2i6RIgCT2IBpL3sICkos/Kh9B+16sGZTeDUTb3+SJKoP8iYNR9W0wAR0w==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AdvanceSoftwareDesign\\AdvanceSoftwareDesign.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\astru\\source\\repos\\AdvanceSoftwareDesign\\AdvanceSoftwareDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\astru\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\astru\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\astru\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\astru\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -7,6 +7,7 @@ public sealed class Matcher
 
     Matcher()
     {
+
     }
 
     public static Matcher Instance
@@ -34,11 +35,23 @@ public sealed class Matcher
     }
     public Job[] GetMatches(Category category)
     {
-        return new Job[0];
+        Board board = new Board();
+        Job[] jobs = board.GetJobList(category);
+        foreach (Job job in jobs)
+        {
+            // Do operation
+        }
+
+        return jobs;
     }
 
     private Boolean IsMatch(Job job, Category category)
     {
         return true;
+    }
+
+    public Matcher GetInstance()
+    {
+        return instance;
     }
 }

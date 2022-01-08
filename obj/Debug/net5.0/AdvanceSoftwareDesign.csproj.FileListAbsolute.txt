@@ -1,0 +1,16 @@
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.csproj.AssemblyReference.cache
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.AssemblyInfoInputs.cache
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.AssemblyInfo.cs
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.csproj.CoreCompileInputs.cache
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\bin\Debug\net5.0\AdvanceSoftwareDesign.exe
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\bin\Debug\net5.0\AdvanceSoftwareDesign.deps.json
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\bin\Debug\net5.0\AdvanceSoftwareDesign.runtimeconfig.json
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\bin\Debug\net5.0\AdvanceSoftwareDesign.runtimeconfig.dev.json
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\bin\Debug\net5.0\AdvanceSoftwareDesign.dll
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\bin\Debug\net5.0\ref\AdvanceSoftwareDesign.dll
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\bin\Debug\net5.0\AdvanceSoftwareDesign.pdb
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.dll
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\ref\AdvanceSoftwareDesign.dll
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.pdb
+C:\Users\astru\source\repos\AdvanceSoftwareDesign\obj\Debug\net5.0\AdvanceSoftwareDesign.genruntimeconfig.cache

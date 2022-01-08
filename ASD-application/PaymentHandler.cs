@@ -20,9 +20,8 @@ namespace ASD_application
             paymentStrategy = paymentMethod;
         }
 
-        public Boolean HandlePayment(String responderID, String recieverID, Double Price) {
-            return true;
-            
+        public bool HandlePayment(string responderID, string recieverID, double price) {
+           return paymentStrategy.Pay(price);
         }
     }
 }

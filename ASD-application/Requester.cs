@@ -8,4 +8,9 @@ public class Requester : Account
     {
 
     }
+
+    public bool ApplyJob(Job job)
+    {
+        return true; 
+    }
 }

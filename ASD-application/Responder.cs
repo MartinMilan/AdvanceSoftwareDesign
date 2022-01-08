@@ -24,6 +24,12 @@ namespace ASD_application
         {
             return (Job) currentJobs[index];
         }
+
+        public Job[] GetMatches()
+        {
+            Matcher matcher = Matcher.Instance;
+            return matcher.GetMatches(chosenCategory);
+        }
     }
 
 
